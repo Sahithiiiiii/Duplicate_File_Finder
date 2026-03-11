@@ -1,0 +1,1 @@
+This Python script scans a folder and all its subfolders to find duplicate files by comparing their MD5 hash values. It helps identify files with identical content even if their names are different, allowing users to see which files are duplicates and how much storage space is wasted. The tool also saves a text report listing the duplicate file paths for later review.
